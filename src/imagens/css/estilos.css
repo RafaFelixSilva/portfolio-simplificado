@@ -176,6 +176,12 @@ background-size: 120% 120%;
 .projetos .btn-mostrar-projetos.remover{
     display: none;
 }
+
+.projetos .btn-mostrar-projetos.mostrar-menos {
+    background-color: #D9A043;
+}
+
+
 @keyframes gradient-animation {
     0% {
       background-position: 0% 50%;
