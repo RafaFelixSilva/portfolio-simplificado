@@ -178,9 +178,13 @@ background-size: 120% 120%;
 }
 
 .projetos .btn-mostrar-projetos.mostrar-menos {
-    background-color: #D9A043;
+    background-color: #9443d8;
 }
 
+.projetos .btn-mostrar-projetos.mostrar-menos:hover {
+    background-color: #D9A043;
+    transition: 0.3s;
+}
 
 @keyframes gradient-animation {
     0% {
